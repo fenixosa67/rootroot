@@ -8,4 +8,4 @@
 - [APK](https://github.com/fenixosa67/rootroot/releases/latest/download/rootroot.apk)
 - [App Store](https://apps.apple.com/app/id6760928180)
 
-Исходный код приложения в этом репозитории не публикуется. Android APK доступен в GitHub Releases. Сайт публикуется через GitHub Pages из ветки main.
+
